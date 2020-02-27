@@ -7,7 +7,7 @@ The available options are embedding dimension and delay for permutation entropy 
 
 ## Download
 
-The python script for these functions is provided in this GitHub Repo.
+The python script for these functions is provided in this GitHub Repo. In the current state, each method is provided as a seperate function for download.
 
 ## Usage
 
