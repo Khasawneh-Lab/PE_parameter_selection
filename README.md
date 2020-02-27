@@ -1,10 +1,9 @@
 # PE_parameter_selection
 
 Python_Package_Name is a Python library for the functions used in "[On the Automatic Parameter Selection for Permutation Entropy](https://arxiv.org/abs/1905.06443)." These functions are used to selection both the embedding dimension and delay for permutations.
+The available options are embedding dimension and delay for permutation entropy (and Takens' embedding or state space reconstruction) are shown in the figure below.
 
-Documentation for the example systems used in "On the Automatic Parameter Selection for Permutation Entropy" will be provided soon.
-
-![Parameter Selection Overview](https://github.com/myersau3/sample_template/blob/master/PE_params.PNG)
+![Parameter Selection Overview](https://github.com/khasawn3/PE_parameter_selection/tree/master/Figures/PE_params.PNG)
 
 ## Download
 
