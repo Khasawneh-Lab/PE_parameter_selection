@@ -10,7 +10,7 @@ The python script for these functions is provided in this GitHub Repo. In the cu
 
 ## Usage
 
-Full documentation, with examples, of the implementation of the functions are provided [here](http://www.firaskhasawneh.com/).
+Full documentation, with examples, of the implementation of the functions is provided [here](http://www.firaskhasawneh.com/).
 
 ## Contributing
 
