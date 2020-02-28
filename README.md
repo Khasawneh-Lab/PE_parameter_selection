@@ -12,7 +12,7 @@ If using the functions provided, please cite "[On the Automatic Parameter Select
 
 The python script for these functions is provided in this GitHub Repo. In the current state, each method is provided as a seperate function for download.
 
-## Usage
+## Usage and Documentation
 
 Full documentation, with examples, of the implementation of the functions is provided [here](http://www.firaskhasawneh.com/).
 
