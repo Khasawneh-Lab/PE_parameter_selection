@@ -16,6 +16,10 @@ The python script for these functions is provided in this GitHub Repo. In the cu
 
 Full documentation, with examples, of the implementation of the functions is provided [here](http://firaskhasawneh.com/code.html).
 
+This material is based upon work supported by the National Science Foundation under grant numbers CMMI-1759823 and DMS1759824. 
+
+Disclaimer: Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
